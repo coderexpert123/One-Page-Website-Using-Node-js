@@ -1,0 +1,11 @@
+{
+  "name": "noderve",
+  "version": "1.0.0",
+  "description": "we make this server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishant singh",
+  "license": "ISC"
+}
